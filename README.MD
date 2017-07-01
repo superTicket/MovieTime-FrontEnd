@@ -1,17 +1,17 @@
 # MovieTime FrondEnd
-这是系统分析与设计课程大作业的电影购票系统的前端代码。   
+Movie Time 电影售票系统 前端代码
 
 这些代码已经写成thymeleaf模板的形式，可以被thymeleaf直接使用。
 
 代码库中还包含了一些资源文件。
 
 ## 启动方式
-将template文件夹复制到测试用服务器的 /movietimes/src/main/webapp/WEB-INF 目录下
+1. 将template文件夹复制到测试用服务器的 `/movietimes/src/main/webapp/WEB-INF` 目录下
 
-> 在movieTimes文件夹根目录下执行以下命令：   
-> jetty:run   
+2. 在movieTimes文件夹根目录下执行以下命令：   
+> jetty:run
 
-> 在浏览器中打开 http://localhost:8080/     
+3. 在浏览器中打开 http://localhost:8080/     
 
 ## 目录结构
 -  /templates：存放各页面.html模板文件
@@ -52,7 +52,7 @@
 
 ## 页面流程图
 
-![Page Flow diagram](images-for-readme/pageFlowDiagram.png)
+![Page Flow diagram](images/diagram.png)
 
 ## License
 
